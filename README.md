@@ -22,10 +22,10 @@ The built docker container and compiled firmware files can be deleted with `make
 ## Flash firmware
 
 1. Connect the left module via USB.
-2. Mount the left module for update: `Mod` + `(1)`.
+2. Mount the left module for update: `Mod` + `①`.
 3. Install the left module firmware by copying the `left.uf2` file to the mounted drive.
 4. Wait for the installation to complete.
-5. Do the same thing for the right module using: `Mod` + `(3)`.
+5. Do the same thing for the right module using: `Mod` + `③`.
 
 ## Other support
 
